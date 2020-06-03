@@ -7,8 +7,6 @@ echo "alterado dentro do github"
 
 echo "123 e"
 
-echo "Olá hcode"
+echo "Olá hcode 03/06/2020"
 
 ?>
-
-
